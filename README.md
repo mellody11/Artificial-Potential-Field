@@ -19,8 +19,8 @@
 ​        人工势场法(Artificial Potential Field)，是路径规划中一种比较常用的算法。这种方法将机器人置身于一个势场当中，机器人在不同的位置所受到的“趋势”不一样，最终在“趋势”的作用下避开障碍物到达目的地。
 
 <center class="half">
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\1.jpg" width="300"/>
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\2.gif" width="300"/>
+    <img src="https://github.com/mellody11/Artificial-Potential-Field/blob/main/pic/1.jpg" width="300"/>
+    <img src="https://github.com/mellody11/Artificial-Potential-Field/blob/main/pic/2.gif" width="300"/>
 </center>
 
 
@@ -148,7 +148,7 @@ legend([a,b,c],{'障碍物','起点','终点'});
 ​		运行效果如下：
 
 <center>
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\Init.jpg" width="500"/>
+    <img src="pic/Init.jpg" width="500"/>
 </center>
 
 ​		下面开始编写计算函数：
