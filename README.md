@@ -225,7 +225,7 @@ display(CountFlag);
 ​		运行结果如下图所示：
 
 <center>
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\Complete1.jpg" width="500"/>
+    <img src="pic/Complete1.jpg" width="500"/>
 </center>				
 
 ### 关于调参
@@ -241,11 +241,11 @@ display(CountFlag);
 ​		参数之间的数值大小非常悬殊，并且数值会随着地图尺寸的改变有非常大的变化，先上图：
 
 <center>
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\1010.jpg"   width="300"/>
+    <img src="pic\1010.jpg"   width="300"/>
     &emsp;
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\100100.jpg" width="300"/>
+    <img src="pic\100100.jpg" width="300"/>
     &emsp;
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\100100_1.jpg" width="300"/>
+    <img src="pic\100100_1.jpg" width="300"/>
     <br/>
     <font color="AAAAAA">图一</font>
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -292,7 +292,7 @@ Obs = randi([0,100],10,2);
 ​		其中，Obs与上文一样是障碍物矩阵，再通过循环和子图的代码，可以同时输出多次结果：
 
 <center>
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\99_1.png"/>
+    <img src="pic\99_1.png"/>
     <br/>
     <font color="AAAAAA">图&emsp;&emsp;经典人工势场法的多次尝试结果</font>
 </center>	
@@ -390,7 +390,7 @@ de = 20;                        % 引力距离因子
 最终输出的结果如下图：
 
 <center>
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\99_2.png"/>
+    <img src="pic\99_2.png"/>
     <br/>
     <font color="AAAAAA">图&emsp;&emsp;改进人工势场法的多次尝试结果</font>
 </center>		
@@ -402,9 +402,9 @@ de = 20;                        % 引力距离因子
 下面使用同一组障碍物比较改进前后的实际效果
 
 <center>
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\Compare1.jpg"   width="300"/>
+    <img src="pic\Compare1.jpg"   width="300"/>
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img src="E:\大三下课件\机器人导航\作业\人工势场法\Artificial-Potential-Field\pic\Compare2.jpg" width="300"/>
+    <img src="pic\Compare2.jpg" width="300"/>
     <br/>
     <font color="AAAAAA">图一 经典人工势场法</font>
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
