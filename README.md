@@ -56,7 +56,7 @@ $$
 
 $$
 U_{\text {rep }}(q)=\left\{\begin{aligned}
-\frac{1}{2} \eta\left(\frac{1}{\rho\left(q, q_{o b s}\right)}-\frac{1}{\rho_{0}}\right)^{2}, & \text { if } \rho\left(q, q_{o b s}\right) \leq \rho_{0} \\
+\frac{1}{2} \eta(\frac{1}{\rho\left(q, q_{o b s})}-\frac{1}{\rho_{0}}\right)^{2}, & \text { if } \rho\left(q, q_{o b s}\right) \leq \rho_{0} \\
 0, & \text { if } \rho\left(q, q_{o b s}\right)>\rho_{0}
 \end{aligned}\right.
 \\
