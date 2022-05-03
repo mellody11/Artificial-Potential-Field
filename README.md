@@ -56,8 +56,8 @@ $$
 
 $$
 U_{\text {rep }}(q)=\left\{\begin{aligned}
-\frac{1}{2} \eta(\frac{1}{\rho\left(q, q_{o b s})}-\frac{1}{\rho_{0}}\right)^{2}, & \text { if } \rho\left(q, q_{o b s}\right) \leq \rho_{0} \\
-0, & \text { if } \rho\left(q, q_{o b s}\right)>\rho_{0}
+\frac{1}{2} \eta(\frac{1}{\rho\left(q, q_{o b s})}-\frac{1}{\rho_{0}}\right)^{2}, & \text { if } \rho(q, q_{o b s}) \leq \rho_{0} \\
+0, & \text { if } \rho(q, q_{o b s})>\rho_{0}
 \end{aligned}\right.
 \\
 其中，\eta是斥力尺度因子，\rho\left(q, q_{o b s}\right)表示机器人和障碍物之间的距离，\rho_{0}表示障碍物的影响半径
