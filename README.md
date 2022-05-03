@@ -60,7 +60,7 @@ U_{\text {rep }}(q)=\left\{\begin{aligned}
 0, & \text { if } \rho(q, q_{o b s})>\rho_{0}
 \end{aligned}\right.
 \\
-其中，\eta是斥力尺度因子，\rho\left(q, q_{o b s}\right)表示机器人和障碍物之间的距离，\rho_{0}表示障碍物的影响半径
+其中，\eta是斥力尺度因子，\rho(q, q_{o b s})表示机器人和障碍物之间的距离，\rho_{0}表示障碍物的影响半径
 $$
 
 同样的，斥力就是斥力场的梯度
