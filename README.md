@@ -19,9 +19,10 @@
 ​        人工势场法(Artificial Potential Field)，是路径规划中一种比较常用的算法。这种方法将机器人置身于一个势场当中，机器人在不同的位置所受到的“趋势”不一样，最终在“趋势”的作用下避开障碍物到达目的地。
 
 <center class="half">
-    <img src="https://github.com/mellody11/Artificial-Potential-Field/blob/main/pic/1.jpg" width="300"/>
-    <img src="https://github.com/mellody11/Artificial-Potential-Field/blob/main/pic/2.gif" width="300"/>
+    <img src="./pic/1.jpg" width="300"/>
+    <img src="./pic/2.gif" width="300"/>
 </center>
+
 
 
 
@@ -56,7 +57,7 @@ $$
 
 $$
 U_{\text {rep }}(q)=\left\{\begin{aligned}
-\frac{1}{2} \eta(\frac{1}{\rho\left(q, q_{o b s})}-\frac{1}{\rho_{0}}\right)^{2}, & \text { if } \rho(q, q_{o b s}) \leq \rho_{0} \\
+\frac{1}{2} \eta\left(\frac{1}{\rho\left(q, q_{o b s}\right)}-\frac{1}{\rho_{0}}\right)^{2}, & \text { if } \rho(q, q_{o b s}) \leq \rho_{0} \\
 0, & \text { if } \rho(q, q_{o b s})>\rho_{0}
 \end{aligned}\right.
 \\
